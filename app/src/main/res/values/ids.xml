@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="lbldate" type="id" />
+    <item name="lblscorehome" type="id" />
+    <item name="lblscoreaway" type="id" />
+    <item name="nestedloopdetail" type="id" />
+
+    <!--match fragment-->
+    <item name="team_date" type="id" />
+    <item name="team_name" type="id" />
+    <!--teams fragment-->
+    <item name="team_nameclub" type="id" />
+    <item name="team_img" type="id" />
+
+    <!--players fragment-->
+    <item name="playersname" type="id" />
+    <item name="playerimg" type="id" />
+
+    >
+
+    <!--favorite fragment-->
+    <item name="recylermatch_favorite" type="id" />
+    <!--<item name="playerimg" type="id" />-->
+</resources>
